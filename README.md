@@ -10,7 +10,7 @@
 
 [공식 Releases](https://github.com/cubericka/EzCap/releases)에서 **EzCap 1.0.0**의 **`EzCap.1.0.exe`**를 받으세요. 파일명은 1.0, 프로그램 내부 버전은 1.0.0입니다.
 
-일반 사용자는 설치 EXE 하나만 필요합니다. GitHub의 자동 생성된 `Source code (zip)`은 이 안내 저장소의 자료이며, 프로그램 소스나 설치 파일이 아닙니다. 프로그램 전체 소스는 공개하지 않습니다.
+일반 사용자는 설치 EXE 하나만 필요합니다. GitHub의 자동 생성된 `Source code (zip)`은 최초 태그 시점의 안내 자료이며, 프로그램 소스나 설치 파일이 아닙니다. 현재 해시는 Release에 첨부된 `SHA256SUMS.txt`를 사용하세요. 최신 안내는 main에 있습니다. 프로그램 전체 소스는 공개하지 않습니다.
 
 ## 주요 기능
 
